@@ -2,7 +2,7 @@
 
 Single-page HTML/CSS/JS vanilla. Architecture modulaire, zéro dépendance d'exécution, accessibilité WCAG AA, export PDF via `window.print()`.
 
-Démo : _(URL à insérer après déploiement)_
+Démo : https://maximegarin.github.io/cv-alternance-cda/
 
 ---
 
@@ -113,7 +113,7 @@ git push -u origin main
 # Settings → Pages → Source: main / root
 ```
 
-URL générée : `https://maximegarin.github.io/cv/`
+URL générée : https://maximegarin.github.io/cv-alternance-cda/`
 
 ### Netlify
 
